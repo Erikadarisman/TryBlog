@@ -1,1 +1,2 @@
-# Android dev learn about recyle view 
+# train android dev
+learn about Recyler
